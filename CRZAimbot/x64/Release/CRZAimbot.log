@@ -1,0 +1,9 @@
+﻿  Main.cpp
+D:\Direct-EFI-Apex-Cheat-master\CRZAimbot\Main.cpp(551,25): warning C4305: '=': truncation from 'int' to 'bool'
+D:\Direct-EFI-Apex-Cheat-master\CRZAimbot\Main.cpp(563,29): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  Generating code
+  1 of 95 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CRZAimbot.vcxproj -> D:\Direct-EFI-Apex-Cheat-master\x64\Release\CRZAimbot.dll
